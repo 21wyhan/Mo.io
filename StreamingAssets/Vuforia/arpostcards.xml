@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="zhou" size="1.000000 1.500000" />
+    <ImageTarget name="xu" size="1.000000 1.500000" />
+    <ImageTarget name="liz" size="1.000000 1.500000" />
+    <ImageTarget name="lishen" size="1.000000 1.500000" />
+    <ImageTarget name="ling" size="1.000000 1.500000" />
+    <ImageTarget name="bai" size="1.000000 1.500000" />
+    <ImageTarget name="shenxinghui" size="1.000000 1.500000" />
+    <ImageTarget name="qiyu" size="1.000000 1.500000" />
+    <ImageTarget name="qinche" size="1.000000 1.500000" />
+  </Tracking>
+</QCARConfig>
